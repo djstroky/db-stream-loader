@@ -50,7 +50,7 @@
     "lcov-result-merger": "^1.0.2",
     "mocha": "^2.5.1",
     "mysql": "^2.11.1",
-    "pg": "^5.0.0",
+    "pg": "^5.1.0",
     "pg-copy-streams": "^1.0.0",
     "pg-hstore": "^2.3.2",
     "rimraf": "^2.5.2",
@@ -63,4 +63,4 @@
       "path": "./node_modules/cz-conventional-changelog"
     }
   }
-}
+}undefined
