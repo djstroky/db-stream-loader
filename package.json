@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "chai": "^3.5.0",
-    "codeclimate-test-reporter": "^0.3.1",
+    "codeclimate-test-reporter": "^0.3.3",
     "cross-env": "^1.0.7",
     "cz-conventional-changelog": "^1.1.6",
     "istanbul": "^0.4.2",
@@ -63,4 +63,4 @@
       "path": "./node_modules/cz-conventional-changelog"
     }
   }
-}
+}undefined
